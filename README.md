@@ -1,2 +1,1 @@
-
-https://github.com/AJamesGit01/Portfolio_Cosc-75/tree/main
+https://ajamesgit01.github.io/Portfolio_Cosc-75/
